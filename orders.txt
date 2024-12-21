@@ -1,0 +1,12 @@
+{"order_number":"66ae53ff5570c","items":[{"id":"16","name":"jelly","price":"40","quantity":1}],"total_price":40,"date":"2024-08-03 17:59:59"}
+{"order_number":"66ae546534289","items":[{"id":"10","name":"Rice","price":"200","quantity":1}],"total_price":200,"date":"2024-08-03 18:01:41"}
+{"order_number":"66ae5475df7f6","items":[{"id":"12","name":"Pasta","price":"700","quantity":1}],"total_price":700,"date":"2024-08-03 18:01:57"}
+{"order_number":"66ae56c94989f","items":[{"id":"23","name":"dinner","price":"70","quantity":1}],"total_price":70,"date":"2024-08-03 18:11:53"}
+{"order_number":"66aefc0df1b3a","items":[{"id":"12","name":"Pasta","price":"700","quantity":"2"},{"id":"13","name":"kiwi","price":"40","quantity":1}],"total_price":1440,"date":"2024-08-04 05:57:02"}
+{"order_number":"66af18de88a82","items":[{"id":"23","name":"dinner","price":"70","quantity":1}],"total_price":70,"date":"2024-08-04 07:59:58"}
+{"order_number":"66af2e6f1e52e","items":[{"id":"23","name":"dinner","price":"70","quantity":1},{"id":"12","name":"Pasta","price":"700","quantity":1}],"total_price":770,"date":"2024-08-04 09:31:59"}
+{"order_number":"66af2e82154ac","items":[{"id":"13","name":"kiwi","price":"40","quantity":1}],"total_price":40,"date":"2024-08-04 09:32:18"}
+{"order_number":"66af3c715bb57","items":[{"id":"13","name":"kiwi","price":"40","quantity":1}],"total_price":40,"date":"2024-08-04 10:31:45"}
+{"order_number":"66afb0a715a9d","items":[{"id":"18","name":"Biriyani","price":"200","quantity":1}],"total_price":200,"date":"2024-08-04 18:47:35"}
+{"order_number":"66afb1356032f","items":[{"id":"14","name":"aaa","price":"888","quantity":"1"},{"id":"15","name":"Code Sparkles","price":"80","quantity":"2"}],"total_price":1048,"date":"2024-08-04 18:49:57"}
+{"order_number":"66b0c2c12cc21","items":[{"id":"23","name":"dinner","price":"70","quantity":"2"},{"id":"14","name":"aaa","price":"888","quantity":1}],"total_price":1028,"date":"2024-08-05 14:17:05"}
