@@ -1,0 +1,26 @@
+.box {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.profile-info {
+    margin-top: 20px;
+}
+
+.profile-info p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.profile-info p strong {
+    color: #333;
+}

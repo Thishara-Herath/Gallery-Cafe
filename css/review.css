@@ -1,0 +1,36 @@
+/* Custom styles for the review card */
+
+.review-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 0px 15px rgba(1, 1, 1, 0.2);
+    margin-top: 30px;
+}
+
+.review-card h5 {
+    color: #cda45e;
+}
+
+.review-card .form-label {
+    color: black;
+}
+
+.review-card button {
+    background-color: #cda45e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.review-card button:hover {
+    background-color: #b08c4e;
+}
+
+.review-card input,
+.review-card textarea {
+    margin-bottom: 15px;
+}
