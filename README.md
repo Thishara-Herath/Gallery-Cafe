@@ -11,3 +11,7 @@ Features
 - Customer Accounts: Allows users to sign up, log in, and manage their profiles.
 - Offers and Promotions: Highlight special deals and discounts.
 - Interactive Interface: Intuitive navigation and visually appealing elements for an engaging experience.
+
+Technologies Used
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
